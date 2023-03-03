@@ -5,7 +5,7 @@ function StartingPageContent() {
 
   return (
     <section className={classes.starting}>
-      <h1>Welcome on Board!</h1>
+      <h1>Let's try authentication by Next.js!</h1>
     </section>
   );
 }
